@@ -10,8 +10,8 @@ import java.util.Random;
  * A class that fills a magic hand of 7 cards with random Card Objects
  * and optionally includes a hard-coded lucky card based on random chance.
  * To be used as starting code in ICE 1
- * @author Parneet Kaur
- * Student number:991724032
+ * @author sumit kaplish
+ * Student number:991731685
  */
 public class CardTrick {
 
